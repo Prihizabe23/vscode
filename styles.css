@@ -1,0 +1,21 @@
+body {
+    color: rgb(235, 12, 179)
+    background:withe
+    margin: 0px
+    font-family: "Exo 2", sans-serif
+  }  
+
+  header {
+    
+    border-bottom:solid 2px white
+    padding: 28px 
+    font-size 32px
+    color: palevioletred
+    
+    section{
+
+        background:white
+        padding-bottom: 80xp;
+        padding-top: 80xp;
+        display:flex ;
+        justify-content: center;
